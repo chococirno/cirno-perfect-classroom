@@ -1,5 +1,5 @@
 ---
-{"excalidraw-plugin":"parsed","tags":["excalidraw"],"dg-publish":true,"permalink":"/excalidraw/test/","dgPassFrontmatter":true}
+{"excalidraw-plugin":"raw","tags":["excalidraw"],"dg-publish":true,"permalink":"/excalidraw/test/","dgPassFrontmatter":true}
 ---
 
 ==⚠  Switch to EXCALIDRAW VIEW in the MORE OPTIONS menu of this document. ⚠==
@@ -9,11 +9,5 @@
 [[my own\|my own]]
 
 { #CovEzUyx}
-
-
----
-dg-publish:true
----
-{ #yVF1sCmn}
 
 
