@@ -3,7 +3,7 @@
 ---
 
 Feng Yi 大佬
-[[Excalidraw/test\|test]]
+[[test\|test]]
 $$
 \beta
 $$
