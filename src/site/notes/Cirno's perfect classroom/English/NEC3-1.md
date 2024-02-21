@@ -2,7 +2,7 @@
 {"date":"2024-02-21 18:47","dg-publish":true,"permalink":"/cirno-s-perfect-classroom/english/nec-3-1/","dgPassFrontmatter":true}
 ---
 
-updated: 2024/2/21, 20:04
+updated: 2024/2/21, 20:09
 
 <mark class="hltr-pink">Pumas</mark> are <mark class="hltr-pink">large</mark>, <mark class="hltr-yellow">cat-like animals which are found in America</mark>.
 
