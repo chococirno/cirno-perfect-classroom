@@ -2,11 +2,11 @@
 {"date":"2024-02-21 18:47","dg-publish":true,"permalink":"/cirno-s-perfect-classroom/english/nec-3-1/","dgPassFrontmatter":true}
 ---
 
-updated: 2024/2/21, 20:28
+updated: 2024/2/21, 20:36
 
-<mark class="hltr-pink">Pumas</mark> are <mark class="hltr-pink">large</mark>, <mark class="hltr-yellow">cat-like animals which are found in America</mark>.
+Pumas are large, cat-like animals which are found in America.
 
-<mark class="hltr-green">When reports came into London Zoo that a wild puma had been spotted forty-five miles south of London</mark>, they were not taken seriously. However, as the evidence began to accumulate, experts from the Zoo felt obliged to investigate, for the descriptions given by people who claimed to have seen the puma were extraordinarily similar.
+When reports came into London Zoo that a wild puma had been spotted forty-five miles south of London, they were not taken seriously. However, as the evidence began to accumulate, experts from the Zoo felt obliged to investigate, for the descriptions given by people who claimed to have seen the puma were extraordinarily similar.
 
 
 
